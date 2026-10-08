@@ -1,0 +1,201 @@
+{
+  "name": "Shinano — Dreaming Moon",
+  "description": "A moonlit Shinano palette in deep navy, silver, and warm gold.",
+  "authors": [
+    {
+      "name": "Custom"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": [
+      "#8290c5",
+      "#8290c5"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#8290c5",
+      "#8290c5"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#d6b96b24",
+      "#d6b96b24"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#d6b96b38",
+      "#d6b96b38"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#242d49",
+      "#242d49"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#323d62",
+      "#323d62"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#202944",
+      "#202944"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#293451",
+      "#293451"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#111522",
+      "#111522"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#171d30",
+      "#171d30"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#171d30",
+      "#171d30"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#111522",
+      "#111522"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#171d30",
+      "#171d30"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#1d2540",
+      "#1d2540"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0b0f19",
+      "#0b0f19"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#111522",
+      "#111522"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#171d30",
+      "#171d30"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#0b0f19",
+      "#0b0f19"
+    ],
+    "EMBED_BACKGROUND": [
+      "#1d2540",
+      "#1d2540"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#171d30",
+      "#171d30"
+    ],
+    "CARD_PRIMARY_PRESSED_BG": [
+      "#293451",
+      "#293451"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#111522",
+      "#111522"
+    ],
+    "CHANNEL_ICON": [
+      "#99a5c9",
+      "#99a5c9"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#aab3ce",
+      "#aab3ce"
+    ],
+    "CHAT_BACKGROUND": [
+      "#111522",
+      "#111522"
+    ],
+    "HEADER_PRIMARY": [
+      "#eef0f7",
+      "#eef0f7"
+    ],
+    "HEADER_SECONDARY": [
+      "#b9c1d8",
+      "#b9c1d8"
+    ],
+    "INPUT_BACKGROUND": [
+      "#0b0f19",
+      "#0b0f19"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#eef0f7",
+      "#eef0f7"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#d6b96b",
+      "#d6b96b"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#727e9e",
+      "#727e9e"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#aab3ce",
+      "#aab3ce"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#242d49",
+      "#242d49"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#323d62",
+      "#323d62"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#171d30",
+      "#171d30"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#d6b96b",
+      "#d6b96b"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#c5cce0",
+      "#c5cce0"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#171d30",
+      "#171d30"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "#8290c5",
+      "#8290c5"
+    ],
+    "TEXT_LINK": [
+      "#a8b8f2",
+      "#a8b8f2"
+    ],
+    "TEXT_MUTED": [
+      "#8b96b3",
+      "#8b96b3"
+    ],
+    "TEXT_NORMAL": [
+      "#d4d9e8",
+      "#d4d9e8"
+    ],
+    "TEXT_PRIMARY": [
+      "#eef0f7",
+      "#eef0f7"
+    ],
+    "THREAD_CHANNEL_SPINE": [
+      "#465276",
+      "#465276"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#323d62",
+      "#323d62"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "#323d6240",
+      "#323d6240"
+    ]
+  },
+  "spec": 2,
+  "background": {
+    "url": "https://raw.githubusercontent.com/E32GX/shinano-dreaming-moon-assets/main/shinano-scrapbook-50353.jpg",
+    "blur": 1,
+    "alpha": 0.38
+  }
+}
