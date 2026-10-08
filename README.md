@@ -10,10 +10,10 @@ https://raw.githubusercontent.com/E32GX/shinano-dreaming-moon-assets/main/shinan
 
 The theme background uses your 720 × 1280 image from this same repository.
 
-## Optional font
+## Import the font
 
-The theme format controls colors and background; it does not set fonts. The Zen Maru Gothic companion CSS is here:
+On Kettu’s **Import Font** screen, choose **Import font entries from a link** and paste this JSON link:
 
-https://raw.githubusercontent.com/E32GX/shinano-dreaming-moon-assets/main/shinano-font-zen-maru.css
+https://raw.githubusercontent.com/E32GX/shinano-dreaming-moon-assets/main/shinano-font-zen-maru.json
 
-Use it only with a Kettu-compatible custom CSS or font plugin.
+Then tap **Import**. The pack applies Zen Maru Gothic’s available weights to Discord’s text styles. Its font files are served from the official Google Fonts repository.
