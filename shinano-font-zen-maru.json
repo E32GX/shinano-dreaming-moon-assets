@@ -1,0 +1,17 @@
+{
+  "spec": 1,
+  "name": "Shinano — Zen Maru Gothic",
+  "description": "Soft rounded Japanese Gothic font pack for the Shinano theme. Font files from Google Fonts.",
+  "main": {
+    "ggsans-Normal": "https://raw.githubusercontent.com/google/fonts/main/ofl/zenmarugothic/ZenMaruGothic-Regular.ttf",
+    "ggsans-NormalItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/zenmarugothic/ZenMaruGothic-Regular.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/google/fonts/main/ofl/zenmarugothic/ZenMaruGothic-Medium.ttf",
+    "ggsans-MediumItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/zenmarugothic/ZenMaruGothic-Medium.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/google/fonts/main/ofl/zenmarugothic/ZenMaruGothic-Bold.ttf",
+    "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/zenmarugothic/ZenMaruGothic-Bold.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/google/fonts/main/ofl/zenmarugothic/ZenMaruGothic-Bold.ttf",
+    "ggsans-BoldItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/zenmarugothic/ZenMaruGothic-Bold.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/google/fonts/main/ofl/zenmarugothic/ZenMaruGothic-Black.ttf",
+    "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/zenmarugothic/ZenMaruGothic-Black.ttf"
+  }
+}
