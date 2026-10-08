@@ -1,0 +1,10 @@
+/* Shinano — Dreaming Moon typography companion
+   Suggested font: Nunito Sans — soft, clean, and readable at phone sizes.
+   This CSS requires a Kettu-compatible custom CSS / font plugin. The JSON theme
+   changes colors only and will work without this companion file. */
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;500;600;700&display=swap');
+
+:root {
+  --font-primary: 'Nunito Sans', 'gg sans', sans-serif;
+  --font-display: 'Nunito Sans', 'gg sans', sans-serif;
+}
