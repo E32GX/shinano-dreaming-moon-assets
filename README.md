@@ -12,8 +12,8 @@ The theme background uses your 720 × 1280 image from this same repository.
 
 ## Optional font
 
-The theme format controls colors and background; it does not set fonts. The Nunito Sans companion CSS is here:
+The theme format controls colors and background; it does not set fonts. The Zen Maru Gothic companion CSS is here:
 
-https://raw.githubusercontent.com/E32GX/shinano-dreaming-moon-assets/main/shinano-font.css
+https://raw.githubusercontent.com/E32GX/shinano-dreaming-moon-assets/main/shinano-font-zen-maru.css
 
 Use it only with a Kettu-compatible custom CSS or font plugin.
