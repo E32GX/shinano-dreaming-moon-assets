@@ -6,7 +6,7 @@ A cool moonlit palette in ink navy, silver, periwinkle, and soft gold, paired wi
 
 In Kettu’s theme importer, paste this raw JSON link:
 
-https://raw.githubusercontent.com/E32GX/shinano-dreaming-moon-assets/main/shinano-dreaming-moon.json?v=50353
+https://raw.githubusercontent.com/E32GX/shinano-dreaming-moon-assets/main/shinano-dreaming-moon-v2.json
 
 The theme background uses your 720 × 1280 image from this same repository.
 
